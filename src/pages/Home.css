@@ -1,0 +1,9 @@
+
+
+.container {
+    display: grid  ; 
+    justify-content: center;    
+    text-align: center;     
+    margin-top: 20em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
